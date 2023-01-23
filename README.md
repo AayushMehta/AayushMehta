@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Technology
 - 📫 How to reach me: ... aayushmehta5225@gmai.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am about to complete Computer Science
+- ⚡ Fun fact: ... 
