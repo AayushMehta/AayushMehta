@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Now-orange)](https://www.aayushmehta.com/){:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aayush-mehta-2b7028147/){:target="_blank"}
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-orange)](https://www.aayushmehta.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/aayush-mehta-2b7028147/)
 <a href="https://github.com/AayushMehta" target="_blank">
   <img src="https://img.shields.io/badge/Github-blue" alt="Github">
 </a>
