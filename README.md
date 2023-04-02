@@ -1,8 +1,13 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-mehta-2b7028147) 
-<a href="https://www.aayushmehta.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
+<a href="https://www.aayushmehta.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-blue" alt="Porfolio">
+</a>
+<a href="https://www.linkedin.com/in/aayush-mehta-2b7028147/" target="_blank">
+  <img src="[https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" alt="Github">
+</a>
+<a href="https://github.com/AayushMehta" target="_blank">
+  <img src="https://img.shields.io/badge/Github-blue" alt="Github">
 </a>
 
 # 💻 Tech Stack:
