@@ -1,11 +1,7 @@
 
 ## 🌐 Socials:
-<a href="https://www.aayushmehta.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-blue" alt="Porfolio">
-</a>
-<a href="https://www.linkedin.com/in/aayush-mehta-2b7028147/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue" alt="Github">
-</a>
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Now-orange)](https://www.aayushmehta.com/){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aayush-mehta-2b7028147/){:target="_blank"}
 <a href="https://github.com/AayushMehta" target="_blank">
   <img src="https://img.shields.io/badge/Github-blue" alt="Github">
 </a>
