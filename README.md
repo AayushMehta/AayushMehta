@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-orange)](https://www.aayushmehta.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange)](https://www.aayushmehta.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/aayush-mehta-2b7028147/)
 <a href="https://github.com/AayushMehta" target="_blank">
   <img src="https://img.shields.io/badge/Github-blue" alt="Github">
@@ -13,8 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AayushMehta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushMehta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AayushMehta&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AayushMehta&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -23,6 +23,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AayushMehta&icon=2&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=AayushMehta&icon=2&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
